@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.column {
+  width: 33.3%;
+}
+
+.column h1 {
+  text-align: center;
+}
+
+.item {
+  display: flex;
+}
